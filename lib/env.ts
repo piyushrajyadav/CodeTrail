@@ -9,7 +9,7 @@ export const env = {
   RESEND_API_KEY: process.env.RESEND_API_KEY!,
 
   // App config
-  NEXT_PUBLIC_APP_URL: process.env.NEXT_PUBLIC_APP_URL || "http://localhost:3000",
+  NEXT_PUBLIC_APP_URL: process.env.NEXT_PUBLIC_APP_URL || "https://code-trail-dusky.vercel.app/",
 }
 
 // Validate required environment variables

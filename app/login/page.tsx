@@ -14,6 +14,7 @@ import { Brain } from "lucide-react"
 import { supabase } from "@/lib/supabase"
 import { useToast } from "@/hooks/use-toast"
 import { EmailVerificationModal } from "@/components/email-verification-modal"
+import { env } from "@/lib/env"
 
 export default function LoginPage() {
   const [email, setEmail] = useState("")
@@ -66,6 +67,9 @@ export default function LoginPage() {
       const { error } = await supabase.auth.signUp({
         email,
         password,
+        options: {
+          emailRedirectTo: `${env.NEXT_PUBLIC_APP_URL}/dashboard`,
+        },
       })
 
       if (error) {
