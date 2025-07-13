@@ -406,31 +406,27 @@ pnpm build
 
 ## 📈 Roadmap
 
-### **Q1 2025**
+### **Completed**
 - ✅ Core AI analysis functionality
 - ✅ PDF report generation
 - ✅ GitHub integration
 - ✅ Responsive dashboard
 
-### **Q2 2025**
+### **In Progress**
 - 🔄 Email report delivery
 - 🔄 Advanced analytics dashboard
 - 🔄 Team collaboration features
 - 🔄 API rate limiting improvements
 
-### **Q3 2025**
+### **UPcoming Features**
 - 📋 Premium subscription plans
 - 📋 LinkedIn integration
 - 📋 Career coaching recommendations
-- 📋 Mobile application
-
-### **Q4 2025**
 - 📋 Multi-language support
 - 📋 Industry-specific analysis
 - 📋 Job matching integration
 - 📋 Advanced AI models
 
-> ✅ Complete &nbsp;&nbsp; 🔄 In Progress &nbsp;&nbsp; 📋 Planned
 
 ## 📄 License
 
@@ -440,9 +436,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **Piyush Raj Yadav**
 - 🌐 GitHub: [@piyushrajyadav](https://github.com/piyushrajyadav)
-- 💼 LinkedIn: [Piyush Raj Yadav](https://linkedin.com/in/piyushrajyadav)
-- 📧 Email: [contact@piyushraj.dev](mailto:contact@piyushraj.dev)
-- 🌟 Portfolio: [piyushraj.dev](https://piyushraj.dev)
+- 💼 LinkedIn: [Piyush Yadav](https://linkedin.com/in/piyushrajyadav)
+- 📧 Email: [piyushyadavrajyadav@gmail.com](mailto:piyushyadavrajyadav@gmail.com)
+- 🌟 Portfolio: [piyushyadav.me](https://piyushyadav.me)
 
 ---
 
